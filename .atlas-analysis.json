@@ -1,0 +1,86 @@
+{
+  "projectType": "saas",
+  "projectName": "Fundación VNE",
+  "projectDescription": "Fundación Venezuela Nueva Esperanza (VNE) is a social-purpose LLC that designs and implements scalable, sustainable social and economic development projects — including Casas VNE communities and Proyecto Génesis — aimed at building long-term autonomy and economic impact.",
+  "theme": "linden",
+  "primaryColor": "#131e3d",
+  "lightColor": "#cdad7d",
+  "darkColor": "#0a1228",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Fundación VNE",
+        "groups": [
+          {
+            "group": "Inicio",
+            "pages": ["introduction", "quienes-somos", "mision-vision-valores"]
+          },
+          {
+            "group": "Liderazgo",
+            "pages": ["liderazgo/ceo", "liderazgo/estructura-institucional"]
+          },
+          {
+            "group": "Sedes",
+            "pages": ["sedes"]
+          }
+        ]
+      },
+      {
+        "tab": "Programas",
+        "groups": [
+          {
+            "group": "Proyecto Génesis",
+            "pages": ["programas/proyecto-genesis", "programas/voluntariado"]
+          },
+          {
+            "group": "Casas VNE",
+            "pages": ["programas/casas-vne", "programas/componentes-del-modelo"]
+          }
+        ]
+      },
+      {
+        "tab": "Participa",
+        "groups": [
+          {
+            "group": "Donaciones",
+            "pages": ["participa/donaciones"]
+          },
+          {
+            "group": "Soporte y Contacto",
+            "pages": ["participa/soporte", "participa/contacto"]
+          }
+        ]
+      },
+      {
+        "tab": "Legal",
+        "groups": [
+          {
+            "group": "Políticas",
+            "pages": [
+              "legal/politica-privacidad",
+              "legal/terminos-condiciones",
+              "legal/politica-conflicto-intereses",
+              "legal/politica-no-discriminacion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Modelo comunitario Casas VNE: microeconomías autosostenibles que integran formación, emprendimiento y economía local",
+    "Proyecto Génesis: inversión social privada con impacto económico medible, productividad real y escalabilidad institucional",
+    "Donaciones vía Zelle con transparencia total y rendición de cuentas",
+    "Programa de voluntariado para profesionales comprometidos con el desarrollo social",
+    "Estructura internacional con sede principal en Nueva York y sede operativa en Caracas",
+    "Modelos escalables y replicables diseñados para contextos donde los enfoques tradicionales son insuficientes"
+  ],
+  "publicApiSurface": [
+    "Formulario de voluntariado (Proyecto Génesis)",
+    "Canal de donaciones vía Zelle",
+    "Correo de contacto: info@foundationvne.com",
+    "WhatsApp administración: +1 (917) 597 9179",
+    "Teléfono dirección general: +1 (347) 819 9521",
+    "Redes sociales: Instagram @foundation.vne"
+  ]
+}
